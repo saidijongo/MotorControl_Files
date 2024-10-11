@@ -6,3 +6,5 @@ https://www.ti.com/lit/ml/slyp711/slyp711.pdf?ts=1725847363153&ref_url=https%253
 
 battery charger
 https://nevonprojects.com/12-volt-battery-charging-system/
+
+https://www.mdpi.com/1424-8220/23/10/4657 [torque sensor]
